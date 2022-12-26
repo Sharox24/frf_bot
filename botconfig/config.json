@@ -1,0 +1,48 @@
+{
+   "token": "OTQ3OTI4NzY0NjIzNDk1MjQ4.G28Quh.M_v1YoJ1RWBN4sN1CYXxwFqAlwsKygQ3URjd78",
+   "prefix": "+",
+   "ownerIDS": [
+      "890832229717147659"
+   ],
+   "fnbr": "d0c6b97e-4bd0-4ce1-8932-03da4f608519",
+   "fortnitetracker": "e6fd1b1f-f406-447a-a8bb-a7d2d06983cc",
+   "memer_api": "cGTmJGOLAc6",
+   "status": {
+      "text": "help | frf | {prefix}",
+      "text2": "{membercount}|{tag}|{commands}|{usedcommands}",
+      "type": "STREAMING",
+      "url": "https://www.twitch.tv/Serveur FRF"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "lava.link",
+            "port": 80,
+            "password": ""
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "ba83318103d94484a491f0ea7e9f9f01",
+      "clientID": "29445f3051134b218856f14dbcbb4240"
+   },
+   "settings": {
+      "COMMENT": "time_delay 0 === insta leave",
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   },
+   "lyricssettings": {
+      "lyrics_finder": true,
+      "ksoft_api": {
+         "use_this_instead": true,
+         "api_key": "DISABLED"
+      }
+   }
+}
